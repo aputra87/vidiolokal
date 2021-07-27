@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="AstroXMLTV" generator-info-url="http://devrandom.blogsite.org/">
+   <channel id="0.astro.my">
+      <display-name lang="en">Astro Warna</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">0</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="101.astro.my">
+      <display-name lang="en">TV 1</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">101</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="102.astro.my">
+      <display-name lang="en">TV 2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">102</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="103.astro.my">
+      <display-name lang="en">TV3</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">103</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="104.astro.my">
+      <display-name lang="en">Astro Ria</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">104</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="105.astro.my">
+      <display-name lang="en">Astro Prima</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">105</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="106.astro.my">
+      <display-name lang="en">Astro OASIS</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">106</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="107.astro.my">
+      <display-name lang="en">NTV7</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">107</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="108.astro.my">
+      <display-name lang="en">Tara HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">108</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="111.astro.my">
+      <display-name lang="en">Arab TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">111</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="114.astro.my">
+      <display-name lang="en">Al-Hijrah</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">114</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="118.astro.my">
+      <display-name lang="en">Astro Go Shop</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">118</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="119.astro.my">
+      <display-name lang="en">TV 9</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">119</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="123.astro.my">
+      <display-name lang="en">Astro Ria HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">123</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="130.astro.my">
+      <display-name lang="en">Astro Box Office Movies Tayangan Hebat</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">130</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="131.astro.my">
+      <display-name lang="en">Astro Citra</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">131</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="133.astro.my">
+      <display-name lang="en">Astro Bella</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">133</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="134.astro.my">
+      <display-name lang="en">Mustika HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">134</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="135.astro.my">
+      <display-name lang="en">MAYA HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">135</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="141.astro.my">
+      <display-name lang="en">Bintang</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">141</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="142.astro.my">
+      <display-name lang="en">Pelangi</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">142</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="180.astro.my">
+      <display-name lang="en">TVi</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">180</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="1.astro.my">
+      <display-name lang="en">HBO</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">1</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="202.astro.my">
+      <display-name lang="en">Astro Vellithirai</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">202</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="203.astro.my">
+      <display-name lang="en">Makkal TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">203</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="211.astro.my">
+      <display-name lang="en">SUN TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">211</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="212.astro.my">
+      <display-name lang="en">Sun Music</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">212</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="213.astro.my">
+      <display-name lang="en">Chutti TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">213</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="214.astro.my">
+      <display-name lang="en">Adithya</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">214</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="221.astro.my">
+      <display-name lang="en">Jaya TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">221</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="222.astro.my">
+      <display-name lang="en">Raj TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">222</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="223.astro.my">
+      <display-name lang="en">Kalaignar TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">223</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="224.astro.my">
+      <display-name lang="en">Star Vijay</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">224</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="231.astro.my">
+      <display-name lang="en">Astro Vinmeen HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">231</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="241.astro.my">
+      <display-name lang="en">Astro Box Office Movie Thangathirai</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">241</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="251.astro.my">
+      <display-name lang="en">Astro BollyOne HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">251</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="2.astro.my">
+      <display-name lang="en">Astro Vaanavil</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="300.astro.my">
+      <display-name lang="en">Astro Xi Yue HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">300</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="301.astro.my">
+      <display-name lang="en">Astro AEC</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">301</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="302.astro.my">
+      <display-name lang="en">iVIEW</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">302</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="304.astro.my">
+      <display-name lang="en">Kah Lai Toi</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">304</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="305.astro.my">
+      <display-name lang="en">TVB Classic</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">305</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="305.astro.my">
+      <display-name lang="en">Classic Movies</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">305</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="306.astro.my">
+      <display-name lang="en">Astro AEC HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">306</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="307.astro.my">
+      <display-name lang="en">Astro Shuang Xing HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">307</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="308.astro.my">
+      <display-name lang="en">Astro Quan Jia HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">308</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="309.astro.my">
+      <display-name lang="en">Celestial HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">309</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="310.astro.my">
+      <display-name lang="en">Astro Wah Lai Toi HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">310</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="311.astro.my">
+      <display-name lang="en">Astro Wah Lai Toi</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">311</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="312.astro.my">
+      <display-name lang="en">Phoenix Chinese Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">312</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="313.astro.my">
+      <display-name lang="en">TVBE</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">313</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="314.astro.my">
+      <display-name lang="en">TVB Xing He</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">314</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="315.astro.my">
+      <display-name lang="en">STAR Chinese Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">315</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="316.astro.my">
+      <display-name lang="en">CTI Asia</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">316</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="317.astro.my">
+      <display-name lang="en">TVBS Asia</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">317</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="318.astro.my">
+      <display-name lang="en">Astro Go Shop</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">318</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="321.astro.my">
+      <display-name lang="en">Celestial Classic Movies</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">321</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="322.astro.my">
+      <display-name lang="en">Celestial Movies</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">322</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="323.astro.my">
+      <display-name lang="en">Phoenix Info News</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">323</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="324.astro.my">
+      <display-name lang="en">Astro Shuang Xing</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">324</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="325.astro.my">
+      <display-name lang="en">Astro Xiao Tai Yang</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">325</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="326.astro.my">
+      <display-name lang="en">TVB Jade HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">326</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="327.astro.my">
+      <display-name lang="en">Asian Action Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">327</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="328.astro.my">
+      <display-name lang="en">TVB Classic Movie</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">328</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="332.astro.my">
+      <display-name lang="en">Hua Hee Dai HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">332</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="333.astro.my">
+      <display-name lang="en">Astro Hua Hee Dai</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">333</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="334.astro.my">
+      <display-name lang="en">CCTV4</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">334</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="350.astro.my">
+      <display-name lang="en">Astro On Demand 350 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">350</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="351.astro.my">
+      <display-name lang="en">AOD 351</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">351</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="352.astro.my">
+      <display-name lang="en">AOD 352</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">352</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="353.astro.my">
+      <display-name lang="en">AOD 353</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">353</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="354.astro.my">
+      <display-name lang="en">AOD 354</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">354</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="361.astro.my">
+      <display-name lang="en">AOD 361</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">361</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="362.astro.my">
+      <display-name lang="en">AOD 362</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">362</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="363.astro.my">
+      <display-name lang="en">AOD 363</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">363</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="364.astro.my">
+      <display-name lang="en">AOD 364</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">364</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="390.astro.my">
+      <display-name lang="en">Channel M</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">390</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="391.astro.my">
+      <display-name lang="en">KBS World</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">391</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="392.astro.my">
+      <display-name lang="en">KBS World HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">392</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="393.astro.my">
+      <display-name lang="en">One HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">393</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="394.astro.my">
+      <display-name lang="en">Oh!K (HD)</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">394</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="395.astro.my">
+      <display-name lang="en">Channel M (HD)</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">395</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="398.astro.my">
+      <display-name lang="en">NHK World</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">398</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="412.astro.my">
+      <display-name lang="en">MAX</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">412</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="413.astro.my">
+      <display-name lang="en">Fox Movies Premium</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">413</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="415.astro.my">
+      <display-name lang="en">Fox Family Movies</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">415</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="430.astro.my">
+      <display-name lang="en">Fox Family Movies HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">430</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="431.astro.my">
+      <display-name lang="en">HBO HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">431</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="433.astro.my">
+      <display-name lang="en">Fox Movies Premium HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">433</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="434.astro.my">
+      <display-name lang="en">Fox Action Movies HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">434</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="438.astro.my">
+      <display-name lang="en">Sundance HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">438</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="456.astro.my">
+      <display-name lang="en">A-List</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">456</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="470.astro.my">
+      <display-name lang="en">Astro Best SD 5</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">470</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="471.astro.my">
+      <display-name lang="en">Astro Best SD 1</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">471</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="472.astro.my">
+      <display-name lang="en">Astro Best SD 2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">472</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="473.astro.my">
+      <display-name lang="en">Astro Best SD 3</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">473</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="474.astro.my">
+      <display-name lang="en">Astro Best SD 4</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">474</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="475.astro.my">
+      <display-name lang="en">Astro Best SD 6</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">475</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="477.astro.my">
+      <display-name lang="en">Astro Best SD 10</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">477</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="478.astro.my">
+      <display-name lang="en">Astro Best SD 7</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">478</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="479.astro.my">
+      <display-name lang="en">Astro Best SD 8</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">479</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="482.astro.my">
+      <display-name lang="en">Astro First SD 1</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">482</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="484.astro.my">
+      <display-name lang="en">Astro First SD 2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">484</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="485.astro.my">
+      <display-name lang="en">Astro First SD 3</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">485</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="486.astro.my">
+      <display-name lang="en">Astro First SD 4</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">486</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="488.astro.my">
+      <display-name lang="en">Astro First SD 5</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">488</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="489.astro.my">
+      <display-name lang="en">Astro First SD 6</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">489</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="490.astro.my">
+      <display-name lang="en">Astro First SD 7</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">490</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="491.astro.my">
+      <display-name lang="en">Astro First SD 8</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">491</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="492.astro.my">
+      <display-name lang="en">Astro First SD 9</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">492</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="494.astro.my">
+      <display-name lang="en">Astro First SD10</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">494</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="495.astro.my">
+      <display-name lang="en">Astro PPV Movies HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">495</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="496.astro.my">
+      <display-name lang="en">Astro PPV Movies HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">496</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="497.astro.my">
+      <display-name lang="en">Astro PPV Movies HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">497</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="501.astro.my">
+      <display-name lang="en">Astro Awani</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">501</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="502.astro.my">
+      <display-name lang="en">Bernama TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">502</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="509.astro.my">
+      <display-name lang="en">CCTV News</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">509</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="511.astro.my">
+      <display-name lang="en">CNN</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">511</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="512.astro.my">
+      <display-name lang="en">BBC World</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">512</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="513.astro.my">
+      <display-name lang="en">Al Jazeera English</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">513</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="518.astro.my">
+      <display-name lang="en">CNBC Asia</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">518</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="519.astro.my">
+      <display-name lang="en">Bloomberg TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">519</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="521.astro.my">
+      <display-name lang="en">Australia Plus TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">521</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="532.astro.my">
+      <display-name lang="en">Sky News HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">532</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="550.astro.my">
+      <display-name lang="en">National Geographic Wild</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">550</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="551.astro.my">
+      <display-name lang="en">Discovery Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">551</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="553.astro.my">
+      <display-name lang="en">National Geographic</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">553</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="554.astro.my">
+      <display-name lang="en">Discovery Science</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">554</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="555.astro.my">
+      <display-name lang="en">HISTORY</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">555</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="556.astro.my">
+      <display-name lang="en">Animal Planet</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">556</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="558.astro.my">
+      <display-name lang="en">BBC Knowledge</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">558</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="571.astro.my">
+      <display-name lang="en">Discovery HD World</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">571</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="573.astro.my">
+      <display-name lang="en">National Geographic HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">573</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="575.astro.my">
+      <display-name lang="en">History HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">575</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="601.astro.my">
+      <display-name lang="en">Tutor TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">601</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="602.astro.my">
+      <display-name lang="en">Tutor TV MR</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">602</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="603.astro.my">
+      <display-name lang="en">Tutor TV SPM</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">603</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="610.astro.my">
+      <display-name lang="en">Astro TVIQ</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">610</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="611.astro.my">
+      <display-name lang="en">Astro Ceria</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">611</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="612.astro.my">
+      <display-name lang="en">Nickelodeon</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">612</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="613.astro.my">
+      <display-name lang="en">Disney Junior</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">613</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="615.astro.my">
+      <display-name lang="en">Disney Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">615</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="616.astro.my">
+      <display-name lang="en">Cartoon Network</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">616</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="617.astro.my">
+      <display-name lang="en">Disney XD (SD)</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">617</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="618.astro.my">
+      <display-name lang="en">Baby TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">618</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="619.astro.my">
+      <display-name lang="en">ZOO MOO</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">619</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="637.astro.my">
+      <display-name lang="en">Disney XD (HD)</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">637</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="701.astro.my">
+      <display-name lang="en">AXN</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">701</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="702.astro.my">
+      <display-name lang="en">DIVA Universal</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">702</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="703.astro.my">
+      <display-name lang="en">Asian Food Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">703</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="705.astro.my">
+      <display-name lang="en">Astro Hitz</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">705</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="707.astro.my">
+      <display-name lang="en">TLC</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">707</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="708.astro.my">
+      <display-name lang="en">8TV</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">708</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="709.astro.my">
+      <display-name lang="en">Lifetime</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">709</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="710.astro.my">
+      <display-name lang="en">Fox Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">710</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="711.astro.my">
+      <display-name lang="en">Star World</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">711</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="712.astro.my">
+      <display-name lang="en">E!Entertainment</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">712</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="713.astro.my">
+      <display-name lang="en">MTV Asia</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">713</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="715.astro.my">
+      <display-name lang="en">Animax</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">715</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="720.astro.my">
+      <display-name lang="en">HITS HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">720</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="721.astro.my">
+      <display-name lang="en">AXN HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">721</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="722.astro.my">
+      <display-name lang="en">Star World HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">722</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="723.astro.my">
+      <display-name lang="en">DIVA Universal HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">723</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="724.astro.my">
+      <display-name lang="en">FOX HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">724</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="725.astro.my">
+      <display-name lang="en">Nat Geo People HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">725</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="726.astro.my">
+      <display-name lang="en">FX HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">726</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="727.astro.my">
+      <display-name lang="en">Food Network Asia HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">727</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="728.astro.my">
+      <display-name lang="en">Life Inspired HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">728</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="729.astro.my">
+      <display-name lang="en">KIX HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">729</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="731.astro.my">
+      <display-name lang="en">HGTV HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">731</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="732.astro.my">
+      <display-name lang="en">Crime and Investigation Network</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">732</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="733.astro.my">
+      <display-name lang="en">Eve</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">733</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="734.astro.my">
+      <display-name lang="en">DMAX</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">734</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="735.astro.my">
+      <display-name lang="en">ITV Choice</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">735</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="736.astro.my">
+      <display-name lang="en">FYI HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">736</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="737.astro.my">
+      <display-name lang="en">Go Asean</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">737</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="761.astro.my">
+      <display-name lang="en">OLY01 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">761</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="762.astro.my">
+      <display-name lang="en">OLY02 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">762</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="763.astro.my">
+      <display-name lang="en">OLY03 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">763</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="764.astro.my">
+      <display-name lang="en">OLY04 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">764</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="765.astro.my">
+      <display-name lang="en">OLY05 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">765</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="766.astro.my">
+      <display-name lang="en">OLY06 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">766</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="767.astro.my">
+      <display-name lang="en">OLY07 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">767</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="768.astro.my">
+      <display-name lang="en">OLY08 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">768</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="769.astro.my">
+      <display-name lang="en">OLY09 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">769</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="770.astro.my">
+      <display-name lang="en">OLY10 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">770</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="771.astro.my">
+      <display-name lang="en">OLY11 SD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">771</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="781.astro.my">
+      <display-name lang="en">OLY1 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">781</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="782.astro.my">
+      <display-name lang="en">OLY2 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">782</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="783.astro.my">
+      <display-name lang="en">OLY3 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">783</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="784.astro.my">
+      <display-name lang="en">OLY4 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">784</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="785.astro.my">
+      <display-name lang="en">OLY5 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">785</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="786.astro.my">
+      <display-name lang="en">OLY6 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">786</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="787.astro.my">
+      <display-name lang="en">OLY7 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">787</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="788.astro.my">
+      <display-name lang="en">OLY8 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">788</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="789.astro.my">
+      <display-name lang="en">OLY9 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">789</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="790.astro.my">
+      <display-name lang="en">OLY10 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">790</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="791.astro.my">
+      <display-name lang="en">OLY11 HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">791</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="801.astro.my">
+      <display-name lang="en">Astro Arena</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">801</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="808.astro.my">
+      <display-name lang="en">Every Good Game</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">808</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="810.astro.my">
+      <display-name lang="en">Astro SuperSport</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">810</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="811.astro.my">
+      <display-name lang="en">Astro SuperSport 2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">811</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="812.astro.my">
+      <display-name lang="en">Fox Sports</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">812</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="813.astro.my">
+      <display-name lang="en">Fox Sports 2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">813</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="814.astro.my">
+      <display-name lang="en">Eurosport</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">814</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="815.astro.my">
+      <display-name lang="en">Golf Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">815</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="816.astro.my">
+      <display-name lang="en">Astro SuperSport 3</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">816</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="817.astro.my">
+      <display-name lang="en">Astro SuperSport 4</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">817</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="818.astro.my">
+      <display-name lang="en">Fox Sports 3</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">818</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="820.astro.my">
+      <display-name lang="en">WWE Network</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">820</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="831.astro.my">
+      <display-name lang="en">Astro SuperSport HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">831</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="832.astro.my">
+      <display-name lang="en">Fox Sports HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">832</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="833.astro.my">
+      <display-name lang="en">Astro Supersport HD 2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">833</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="834.astro.my">
+      <display-name lang="en">Astro SuperSport HD 3</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">834</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="835.astro.my">
+      <display-name lang="en">Golf Channel</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">835</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="837.astro.my">
+      <display-name lang="en">ASSP HD PLUS</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">837</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="837.astro.my">
+      <display-name lang="en">beIN Sports</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">837</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="838.astro.my">
+      <display-name lang="en">Astro Cricket HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">838</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="839.astro.my">
+      <display-name lang="en">Setanta Sports HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">839</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="840.astro.my">
+      <display-name lang="en">WWE Network HD</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">840</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="852.astro.my">
+      <display-name lang="en">Hitz.fm</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">852</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="853.astro.my">
+      <display-name lang="en">Radio MY</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">853</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="854.astro.my">
+      <display-name lang="en">LiteFM</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">854</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="855.astro.my">
+      <display-name lang="en">MIX fm</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">855</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="856.astro.my">
+      <display-name lang="en">Radio ERA</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">856</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="857.astro.my">
+      <display-name lang="en">Sinar</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">857</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="858.astro.my">
+      <display-name lang="en">Radio Chinese Melody</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">858</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="859.astro.my">
+      <display-name lang="en">Radio THR Raaga</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">859</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="860.astro.my">
+      <display-name lang="en">Rock</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">860</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="861.astro.my">
+      <display-name lang="en">Radio Golden Oldies</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">861</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="862.astro.my">
+      <display-name lang="en">Radio Opus Classics</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">862</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="863.astro.my">
+      <display-name lang="en">Radio Gegar</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">863</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="864.astro.my">
+      <display-name lang="en">Radio India Beat</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">864</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="865.astro.my">
+      <display-name lang="en">Radio Jazz</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">865</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="866.astro.my">
+      <display-name lang="en">Osai</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">866</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="867.astro.my">
+      <display-name lang="en">Bayu Radio FM</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">867</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="868.astro.my">
+      <display-name lang="en">Radio Kenyalang</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">868</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="869.astro.my">
+      <display-name lang="en">NAS FM</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">869</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="870.astro.my">
+      <display-name lang="en">V FM</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">870</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="871.astro.my">
+      <display-name lang="en">Wai FM</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">871</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="971.astro.my">
+      <display-name lang="en">Box Office Sports 1</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">971</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+   <channel id="972.astro.my">
+      <display-name lang="en">Box Office Sports 2</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+      <display-name lang="en">972</display-name>
+      <url>http://www.astro.com.my/epg/channel.php</url>
+   </channel>
+</tv>
